@@ -1,0 +1,361 @@
+[
+      {
+        "title": "Sunset Kayak",
+        "location": "Goa",
+        "description": "Curated small-group sunset paddle. Certified local guide with safety gear included.",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=60",
+        "duration": "2 hrs",
+        "rating": 4.9,
+        "price": 999,
+        "tax": 59,
+        "about": "Scenic river routes with trained guides and sunset views. Safety briefing included. Minimum age 10.",
+        "dates": [
+          {
+            "date": "Nov 1",
+            "slots": [
+              { "time": "04:00 pm", "remaining": 5 },
+              { "time": "05:30 pm", "remaining": 6 },
+              { "time": "06:00 pm", "remaining": 4 }
+            ]
+          },
+          {
+            "date": "Nov 2",
+            "slots": [
+              { "time": "04:00 pm", "remaining": 6 },
+              { "time": "05:00 pm", "remaining": 5 }
+            ]
+          },
+          {
+            "date": "Nov 3",
+            "slots": [
+              { "time": "04:30 pm", "remaining": 4 },
+              { "time": "05:30 pm", "remaining": 5 },
+              { "time": "06:00 pm", "remaining": 5 }
+            ]
+          },
+          {
+            "date": "Nov 4",
+            "slots": [
+              { "time": "04:30 pm", "remaining": 4 },
+              { "time": "05:00 pm", "remaining": 3 }
+            ]
+          },
+          {
+            "date": "Nov 5",
+            "slots": [
+              { "time": "04:00 pm", "remaining": 6 },
+              { "time": "05:30 pm", "remaining": 6 },
+              { "time": "06:00 pm", "remaining": 5 }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Himalayan Day Hike",
+        "location": "Rishikesh",
+        "description": "Guided mountain trail with scenic viewpoints and local lunch included.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJg0QEI6ATOAtCBykW7CDzYgIIkyVLkZYYQ&s",
+        "duration": "6 hrs",
+        "rating": 4.8,
+        "price": 1499,
+        "tax": 89,
+        "about": "Full-day guided trek with lunch stop. Moderate difficulty, ages 12+. Safety gear provided.",
+        "dates": [
+          {
+            "date": "Nov 5",
+            "slots": [
+              { "time": "06:00 am", "remaining": 10 },
+              { "time": "07:00 am", "remaining": 8 }
+            ]
+          },
+          {
+            "date": "Nov 6",
+            "slots": [
+              { "time": "06:00 am", "remaining": 7 },
+              { "time": "07:30 am", "remaining": 8 },
+              { "time": "08:00 am", "remaining": 6 }
+            ]
+          },
+          {
+            "date": "Nov 7",
+            "slots": [
+              { "time": "06:30 am", "remaining": 9 },
+              { "time": "07:00 am", "remaining": 9 }
+            ]
+          },
+          {
+            "date": "Nov 8",
+            "slots": [
+              { "time": "06:00 am", "remaining": 7 },
+              { "time": "06:30 am", "remaining": 6 },
+              { "time": "07:30 am", "remaining": 7 }
+            ]
+          },
+          {
+            "date": "Nov 9",
+            "slots": [
+              { "time": "06:00 am", "remaining": 10 },
+              { "time": "07:00 am", "remaining": 9 }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Desert Camel Safari",
+        "location": "Jaisalmer",
+        "description": "Ride through golden dunes with sunset views and traditional dinner.",
+        "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/11/d7/cf/f4.jpg",
+        "duration": "4 hrs",
+        "rating": 4.6,
+        "price": 1299,
+        "tax": 77,
+        "about": "Camel safari, folk performances, and Rajasthani dinner under the stars.",
+        "dates": [
+          {
+            "date": "Nov 3",
+            "slots": [
+              { "time": "03:00 pm", "remaining": 7 },
+              { "time": "04:00 pm", "remaining": 8 },
+              { "time": "05:30 pm", "remaining": 6 }
+            ]
+          },
+          {
+            "date": "Nov 4",
+            "slots": [
+              { "time": "03:30 pm", "remaining": 6 },
+              { "time": "05:00 pm", "remaining": 5 }
+            ]
+          },
+          {
+            "date": "Nov 5",
+            "slots": [
+              { "time": "04:00 pm", "remaining": 6 },
+              { "time": "05:00 pm", "remaining": 7 }
+            ]
+          },
+          {
+            "date": "Nov 6",
+            "slots": [
+              { "time": "03:00 pm", "remaining": 5 },
+              { "time": "04:30 pm", "remaining": 4 },
+              { "time": "05:00 pm", "remaining": 5 }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tea Plantation Tour",
+        "location": "Munnar",
+        "description": "Walk through lush tea gardens and learn the art of tea-making.",
+        "image": "https://www.bharatbooking.com/admin/webroot/img/uploads/holiday-package-gallery/1701762936_835094-addabarie-tea-estate-assam-tour-slider-image.webp",
+        "duration": "3 hrs",
+        "rating": 4.8,
+        "price": 799,
+        "tax": 48,
+        "about": "Learn about tea cultivation and tasting with local experts. Easy walk suitable for all ages.",
+        "dates": [
+          {
+            "date": "Nov 7",
+            "slots": [
+              { "time": "09:00 am", "remaining": 10 },
+              { "time": "10:30 am", "remaining": 9 }
+            ]
+          },
+          {
+            "date": "Nov 8",
+            "slots": [
+              { "time": "09:00 am", "remaining": 8 },
+              { "time": "09:30 am", "remaining": 9 },
+              { "time": "11:00 am", "remaining": 9 }
+            ]
+          },
+          {
+            "date": "Nov 9",
+            "slots": [
+              { "time": "10:00 am", "remaining": 10 },
+              { "time": "11:00 am", "remaining": 9 }
+            ]
+          },
+          {
+            "date": "Nov 10",
+            "slots": [
+              { "time": "09:00 am", "remaining": 8 },
+              { "time": "10:00 am", "remaining": 8 },
+              { "time": "11:00 am", "remaining": 7 }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Backwater Houseboat Cruise",
+        "location": "Alleppey",
+        "description": "Relax on a traditional houseboat through Kerala’s serene backwaters.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF49OnnFwFlPSXTGHS2_XPvCiHN0KaTcCZdg&s",
+        "duration": "5 hrs",
+        "rating": 4.9,
+        "price": 1999,
+        "tax": 119,
+        "about": "Private or shared cruise with onboard meals and scenic canal views. Ideal for couples.",
+        "dates": [
+          {
+            "date": "Nov 1",
+            "slots": [
+              { "time": "09:00 am", "remaining": 4 },
+              { "time": "10:00 am", "remaining": 4 }
+            ]
+          },
+          {
+            "date": "Nov 2",
+            "slots": [
+              { "time": "09:30 am", "remaining": 4 },
+              { "time": "10:00 am", "remaining": 3 },
+              { "time": "11:00 am", "remaining": 4 }
+            ]
+          },
+          {
+            "date": "Nov 3",
+            "slots": [
+              { "time": "10:30 am", "remaining": 3 },
+              { "time": "11:30 am", "remaining": 3 }
+            ]
+          },
+          {
+            "date": "Nov 4",
+            "slots": [
+              { "time": "10:00 am", "remaining": 5 },
+              { "time": "11:00 am", "remaining": 5 },
+              { "time": "12:00 pm", "remaining": 4 }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cultural Dance Workshop",
+        "location": "Udaipur",
+        "description": "Learn traditional Rajasthani folk dance from expert performers.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/68/62/54/glimpses-of-folk-dance.jpg?w=900&h=500&s=1",
+        "duration": "2 hrs",
+        "rating": 4.6,
+        "price": 599,
+        "tax": 36,
+        "about": "Hands-on dance experience with local artists. Fun and interactive for all skill levels.",
+        "dates": [
+          {
+            "date": "Nov 6",
+            "slots": [
+              { "time": "05:30 pm", "remaining": 10 },
+              { "time": "06:00 pm", "remaining": 9 }
+            ]
+          },
+          {
+            "date": "Nov 7",
+            "slots": [
+              { "time": "06:00 pm", "remaining": 8 },
+              { "time": "06:30 pm", "remaining": 7 },
+              { "time": "07:30 pm", "remaining": 8 }
+            ]
+          },
+          {
+            "date": "Nov 8",
+            "slots": [
+              { "time": "06:30 pm", "remaining": 9 },
+              { "time": "07:00 pm", "remaining": 9 },
+              { "time": "08:00 pm", "remaining": 8 }
+            ]
+          },
+          {
+            "date": "Nov 9",
+            "slots": [
+              { "time": "06:00 pm", "remaining": 10 },
+              { "time": "07:00 pm", "remaining": 9 }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Surfing Basics",
+        "location": "Varkala",
+        "description": "Catch your first wave with expert instructors on Kerala’s beaches.",
+        "image": "https://static.cms.yp.ca/ecms/media/1/5303917_xxl-1443457526-600x360.jpg",
+        "duration": "3 hrs",
+        "rating": 4.7,
+        "price": 1199,
+        "tax": 72,
+        "about": "Introductory surf class with equipment, beach safety briefing, and hands-on coaching.",
+        "dates": [
+          {
+            "date": "Nov 3",
+            "slots": [
+              { "time": "07:30 am", "remaining": 6 },
+              { "time": "08:00 am", "remaining": 5 },
+              { "time": "09:30 am", "remaining": 6 }
+            ]
+          },
+          {
+            "date": "Nov 4",
+            "slots": [
+              { "time": "08:00 am", "remaining": 5 },
+              { "time": "09:00 am", "remaining": 4 }
+            ]
+          },
+          {
+            "date": "Nov 5",
+            "slots": [
+              { "time": "08:30 am", "remaining": 6 },
+              { "time": "09:00 am", "remaining": 7 },
+              { "time": "10:00 am", "remaining": 5 }
+            ]
+          },
+          {
+            "date": "Nov 6",
+            "slots": [
+              { "time": "08:00 am", "remaining": 6 },
+              { "time": "09:30 am", "remaining": 5 }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pottery & Craft Village Tour",
+        "location": "Kutch",
+        "description": "Explore artisan villages and try pottery and embroidery with local craftspeople.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXISMYrytB74wuP8CHvzwgEgDdxhSCQFU_Q&s",
+        "duration": "4 hrs",
+        "rating": 4.8,
+        "price": 899,
+        "tax": 54,
+        "about": "Meet traditional artisans and create your own crafts. Includes village walk and refreshments.",
+        "dates": [
+          {
+            "date": "Nov 8",
+            "slots": [
+              { "time": "10:00 am", "remaining": 10 },
+              { "time": "11:30 am", "remaining": 9 }
+            ]
+          },
+          {
+            "date": "Nov 9",
+            "slots": [
+              { "time": "10:30 am", "remaining": 9 },
+              { "time": "12:00 pm", "remaining": 8 },
+              { "time": "01:00 pm", "remaining": 9 }
+            ]
+          },
+          {
+            "date": "Nov 10",
+            "slots": [
+              { "time": "11:00 am", "remaining": 8 },
+              { "time": "12:00 pm", "remaining": 7 }
+            ]
+          },
+          {
+            "date": "Nov 11",
+            "slots": [
+              { "time": "10:00 am", "remaining": 10 },
+              { "time": "11:30 am", "remaining": 9 },
+              { "time": "01:00 pm", "remaining": 10 }
+            ]
+          }
+        ]
+      }
+  ]
