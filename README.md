@@ -6,14 +6,13 @@ The frontend design is a replica of the provided [Figma](https://www.figma.com/d
 
 
 ---
-<!-- 
 ## 🚀 Live Demo
 
-Frontend: [https://your-frontend-link.vercel.app](https://your-frontend-link.vercel.app)  
-Backend API: [https://your-backend-link.onrender.com/api](https://your-backend-link.onrender.com/api)  
-GitHub Repository: [https://github.com/yourusername/bookit](https://github.com/yourusername/bookit)
+Frontend: [Book-It](https://book-it-plum.vercel.app/)  
+<!-- Backend API: [https://your-backend-link.onrender.com/api](https://your-backend-link.onrender.com/api) -->  
+GitHub Repository: [BookIt](https://github.com/Jiya-Patel27/BookIt)
 
---- -->
+---
 
 ## 🧩 Tech Stack
 
