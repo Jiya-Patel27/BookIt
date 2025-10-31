@@ -8,9 +8,9 @@ The frontend design is a replica of the provided [Figma](https://www.figma.com/d
 ---
 ## 🚀 Live Demo
 
-Frontend: [Book-It](https://book-it-plum.vercel.app/)  
-<!-- Backend API: [https://your-backend-link.onrender.com/api](https://your-backend-link.onrender.com/api) -->  
-GitHub Repository: [BookIt](https://github.com/Jiya-Patel27/BookIt)
+Frontend: [Book-It Frontend](https://book-it-plum.vercel.app/)  
+Backend API: [Book-It Backend](https://bookit-d8mj.onrender.com)  
+GitHub Repository: [Book-It](https://github.com/Jiya-Patel27/BookIt)
 
 ---
 
@@ -54,6 +54,8 @@ GitHub Repository: [BookIt](https://github.com/Jiya-Patel27/BookIt)
 2. Details Page – displays selected experience info + available slots
 3. Checkout Page – collects user info, applies promo codes
 4. Result Page – confirms booking success or failure
+   
+   - Home → Details → Checkout → Result 
 
 ---
 
