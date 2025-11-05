@@ -7,9 +7,12 @@ The frontend design is a replica of the provided [Figma](https://www.figma.com/d
 
 ---
 ## 🚀 Live Demo
+> ⚠️ **Note:** The backend is hosted on **Render (Free Tier)**, which goes to sleep after 15 minutes of inactivity.  
+When first accessed, it may take **2–5 minutes** to wake up — during this time, you might see *“Could not load experience.”*
+After the backend loads, everything works instantly.
 
-Frontend: [Book-It Frontend](https://book-it-plum.vercel.app/)  
 Backend API: [Book-It Backend](https://bookit-d8mj.onrender.com)  
+Frontend: [Book-It Frontend](https://book-it-plum.vercel.app/)  
 GitHub Repository: [Book-It](https://github.com/Jiya-Patel27/BookIt)
 
 ---
