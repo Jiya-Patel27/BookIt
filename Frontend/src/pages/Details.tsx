@@ -80,7 +80,7 @@ export default function Details() {
   return (
     <>
       <BackButton label='Details'/>
-      <div className="mx-auto p-6 grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="mx-auto p-6 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* Left Section */}
         <div className="md:col-span-2">
           <img
@@ -205,7 +205,7 @@ export default function Details() {
         <button
           onClick={handleConfirm}
           disabled={!selectedDate || !selectedSlotId}
-          className={`py-2 rounded-lg w-[339px] h-11 gap-2.5 font-semibold ${
+          className={`py-2 rounded-lg w-[290px] h-11 gap-2.5 font-semibold ${
             selectedDate && selectedSlotId
               ? 'bg-[#FFD643] hover:bg-[#f8cb27] text-black'
               : 'bg-[#D7D7D7] cursor-not-allowed text-[#7F7F7F] '
