@@ -18,7 +18,8 @@ app.use('/api/bookings', bookingsRoute);
 app.use('/api/promo', promoRoute);
 
 const PORT = process.env.PORT || 5000;
-const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/bookit';
+// const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/bookit';
+const MONGO_URI = process.env.MONGO_URI;
 
 mongoose.connect(MONGO_URI, { })
   .then(() => {

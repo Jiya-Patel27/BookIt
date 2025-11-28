@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import logo from '../../public/logo.png';
+import logo from '../assets/logo.png';
 
 export default function Header() {
   const [query, setQuery] = useState('');
@@ -15,7 +15,7 @@ export default function Header() {
       <div className=" mx-[10%] px-6 py-4 flex items-center justify-between">
         {/* Left: Logo */}
         <div className="flex items-center gap-2">
-          <img src={logo} alt="logo" className="h-[55px] w-[100px]" />
+          <img src={logo} alt="logo" className="h-[60px] w-[120px]" />
           {/* <div>
             <div className="text-[14px] font-semibold leading-tight">highway</div>
             <div className="text-[12px] text-gray-500 -mt-1">delite</div>

@@ -113,7 +113,7 @@ export default function Checkout() {
   return (
     <>
       <BackButton label='Checkout' />
-      <div className="mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10">
+      <div className="mx-auto px-6 max-sm:px-0 grid grid-cols-1 md:grid-cols-3 gap-10">
         {/* LEFT: Form section */}
         <div className="bg-gray-50 p-8 rounded-xl shadow-sm md:col-span-2">
 
@@ -159,9 +159,9 @@ export default function Checkout() {
               <button
                 onClick={checkPromo}
                 disabled={loadingPromo}
-                className="px-3 bg-[#161616] w-[71px] h-[42px] text-white rounded-lg  text-sm font-medium hover:bg-gray-800"
+                className="bg-[#161616] w-[71px] h-[42px] text-white rounded-lg  text-sm font-medium hover:bg-gray-800"
               >
-                {loadingPromo ? 'Checking...' : 'Apply'}
+                {loadingPromo ? 'Checking' : 'Apply'}
               </button>
             </div>
 

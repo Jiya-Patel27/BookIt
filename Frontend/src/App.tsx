@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div className="min-h-screen">
       <Header />
-      <main className=" lg:mx-[9%] mx-[3%] p-4">
+      <main className="mx-[4%] p-4">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/experience/:id" element={<Details />} />

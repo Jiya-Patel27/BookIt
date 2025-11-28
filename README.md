@@ -1,8 +1,8 @@
 # 🌍 BookIt – Experiences & Slots
 
 A full-stack web application where users can browse travel experiences, view available slots, apply promo codes, and complete bookings.  
-Built as part of a **Fullstack Intern Assignment** using React, TypeScript, TailwindCSS, Node.js, and MongoDB.
-The frontend design is a replica of the provided [Figma](https://www.figma.com/design/8X6E1Ev8YdtZ3erV0Iifvb/HD-booking?node-id=0-1&p=f&t=K4scwnxfIHmfbb2a-0) link.
+Built using React, TypeScript, TailwindCSS, Node.js, and MongoDB.
+<!-- The frontend design is a replica of the provided [Figma](https://www.figma.com/design/8X6E1Ev8YdtZ3erV0Iifvb/HD-booking?node-id=0-1&p=f&t=K4scwnxfIHmfbb2a-0) link. -->
 
 
 ---
@@ -11,7 +11,7 @@ The frontend design is a replica of the provided [Figma](https://www.figma.com/d
 When first accessed, it may take **2–5 minutes** to wake up — during this time, you might see *“Could not load experience.”*
 After the backend loads, everything works instantly.
 
-Backend API: [Book-It Backend](https://bookit-d8mj.onrender.com)  
+<!-- Backend API: [Book-It Backend](https://bookit-d8mj.onrender.com)   -->
 Frontend: [Book-It Frontend](https://book-it-plum.vercel.app/)  
 GitHub Repository: [Book-It](https://github.com/Jiya-Patel27/BookIt)
 

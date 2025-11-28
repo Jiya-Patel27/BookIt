@@ -48,7 +48,7 @@ export default function Home() {
       {!loading && filteredList.length === 0 && (
         <div className="text-gray-500 text-center mt-10">No results found.</div>
       )}
-      <div className="grid grid-cols-1 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-6">
+      <div className="grid grid-cols-1 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-6 place-items-center">
         {filteredList.map(exp => <ExperienceCard key={exp._id} exp={exp} />)}
       </div>
     </div>

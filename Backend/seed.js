@@ -4,7 +4,8 @@ const Experience = require('./models/Experience');
 const Promo = require('./models/Promo');
 const experiences = require('./data/experiences.json');
 
-const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/bookit';
+// const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/bookit';
+const MONGO_URI = process.env.MONGO_URI;
 
 async function seed() {
   await mongoose.connect(MONGO_URI, {});
